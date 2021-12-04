@@ -1,15 +1,15 @@
 {
   "name": "vpn.dnp.dappnode.eth",
   "version": "0.2.1",
-  "description": "Dappnode package responsible for providing the VPN (OpenVPN) connection",
-  "avatar": "/ipfs/QmZLu71XKSLeV7qJWEA48achawNW1hLB6wRgafumdPFNQ3",
+  "description": "AVADO package responsible for providing the VPN (OpenVPN) connection",
+  "avatar": "/ipfs/QmPiBZ5zaQKCjXvnjHQcwKkgeuBR7dhPxfnNELwjrqMUdv",
   "type": "dncore",
   "autoupdate": true,
   "title": "VPN server",
   "image": {
     "path": "vpn.dnp.dappnode.eth_0.2.1.tar.xz",
-    "hash": "/ipfs/QmYRspXiUqEFyXQrR37u8Rpp6swc3eqJ2GHydBA6WyBtxj",
-    "size": 41124088,
+    "hash": "/ipfs/QmewzH2Yy1bhQVqAEaTV4YFJtb48nUtSQjP1iHkWw8R99J",
+    "size": 40387580,
     "volumes": [
       "/etc/hostname:/etc/vpnname:ro",
       "/lib/modules:/lib/modules:ro",
@@ -27,28 +27,7 @@
     "subnet": "172.33.0.0/16",
     "ipv4_address": "172.33.1.4"
   },
-  "author": "DAppNode Association <admin@dappnode.io> (https://github.com/dappnode)",
-  "contributors": [
-    "Eduardo Antuña <eduadiez@gmail.com> (https://github.com/eduadiez)",
-    "DAppLion <dapplion@giveth.io> (https://github.com/dapplion)",
-    "vdo <vdo@giveth.io> (https://github.com/vdo)",
-    "Alex Floyd <alex@giveth.io> (https://github.com/mex20)"
-  ],
-  "keywords": [
-    "DAppNodeCore",
-    "VPN",
-    "OpenVPN"
-  ],
-  "links": {
-    "homepage": "https://github.com/dappnode/DNP_VPN#readme"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dappnode/DNP_VPN"
-  },
-  "bugs": {
-    "url": "https://github.com/dappnode/DNP_VPN/issues"
-  },
+  "author": "AVADO",
   "license": "GPL-3.0",
-  "builddate": "2021-05-15T15:08:45.330Z"
+  "builddate": "2021-12-04T15:59:56.089Z"
 }
